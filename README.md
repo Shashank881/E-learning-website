@@ -14,8 +14,8 @@ It features:
 
 - Programming course cards
 
-An “About Us” page
+- An “About Us” page
 
-A “Meet the Developer” section
+- A “Meet the Developer” section
 
-Responsive and clean layout
+- Responsive and clean layout
