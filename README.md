@@ -8,11 +8,11 @@ This project aims to provide a clean and structured learning environment for pro
 This website contains multiple sections designed to help new learners start their programming journey.
 It features:
 
-A modern navigation bar
+- A modern navigation bar
 
-A banner image with text overlay
+- A banner image with text overlay
 
-Programming course cards
+- Programming course cards
 
 An “About Us” page
 
