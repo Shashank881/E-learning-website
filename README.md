@@ -33,7 +33,7 @@ Simple introduction, explanation, and concept overview for beginners.
 
 More courses will be added to make this platform richer and more helpful for learners.
 
-🌟 Why Choose iLearn?
+# 🌟 Why Choose iLearn?
 
 Simple language
 
@@ -45,7 +45,7 @@ Visual learning (images + text)
 
 Suitable for self-learners and students
 
-👨‍💻 About the Developer
+# 👨‍💻 About the Developer
 
 A dedicated learner and aspiring web developer, building projects to improve skills in:
 
