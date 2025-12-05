@@ -23,11 +23,11 @@ It features:
 
 The platform introduces beginner-friendly programming topics such as:
 
-🔹 History of Coding
+## 🔹 History of Coding
 
 A short description of how coding evolved, with an image and a clean layout.
 
-🔹 C Programming Basics (More courses can be added later)
+## 🔹 C Programming Basics (More courses can be added later)
 
 Simple introduction, explanation, and concept overview for beginners.
 
