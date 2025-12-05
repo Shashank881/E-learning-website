@@ -34,7 +34,8 @@ Simple introduction, explanation, and concept overview for beginners.
 More courses will be added to make this platform richer and more helpful for learners.
 
 ## 🔹  C++ Programing 
-Learn the fundamentals of C++ — one of the most powerful and fast programming languages. This course covers basic syntax, variables, loops, functions, and object-oriented concepts to help you build a strong programming foundation.
+Learn the fundamentals of C++ — one of the most powerful and fast programming languages. 
+This course covers basic syntax, variables, loops, functions, and object-oriented concepts to help you build a strong programming foundation.
 
 # 🌟 Why Choose iLearn?
 
