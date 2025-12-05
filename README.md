@@ -38,7 +38,13 @@ Learn the fundamentals of C++ — one of the most powerful and fast programming 
 
 This course covers basic syntax, variables, loops, functions, and object-oriented concepts to help you build a strong programming foundation.
 
-## 
+## 🔹 HTML
+Understand the foundation of web development with HTML. 
+This course teaches you how to structure webpages using tags, headings, paragraphs, images, links, and lists to build the basic layout of any website.
+
+## 🔹 Javascript
+Learn how to make webpages interactive using JavaScript.
+This course covers variables, loops, functions, events, and basic DOM manipulation to help you add dynamic behavior to your websites.
 
 # 🌟 Why Choose iLearn?
 
