@@ -19,7 +19,7 @@ It features:
 - A “Meet the Developer” section
 
 - Responsive and clean layout
-📘 Courses Included
+# 📘 Courses Included
 
 The platform introduces beginner-friendly programming topics such as:
 
